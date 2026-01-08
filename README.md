@@ -20,7 +20,8 @@
 
 ## 학습 곡선 분석 (Learning Curve)
 
-<img width="934" height="374" alt="image" src="https://github.com/user-attachments/assets/851de227-665a-4b58-9f21-f292bfee2b1c" />
+<img width="1174" height="471" alt="image" src="https://github.com/user-attachments/assets/b9b979bd-b80c-43c9-b71a-6e4e78e7a199" />
+
 
 
 ### 1. Accuracy (정확도)
