@@ -20,6 +20,8 @@
 
 ## 학습 곡선 분석 (Learning Curve)
 
+<img width="779" height="310" alt="image" src="https://github.com/user-attachments/assets/d8c10c95-0140-420e-9e7f-bf556035cb0f" />
+
 ### 1. Accuracy (정확도)
 * **일반화 성능 확보**: Training Accuracy와 Validation Accuracy 사이의 간격이 좁게 유지됩니다. 
 * **해석**: 모델이 학습 데이터에 편향되지 않고, 미학습 데이터(Unseen Data)에 대해서도 우수한 예측 성능을 보입니다.
